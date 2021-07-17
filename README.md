@@ -1,4 +1,4 @@
-# Hackintosh-OpenCore-ASRock-H470M-ITX
+# Hackintosh-OC-10500-ASRock-H470M-iTX-RX5500XT
 
 处理器：i5-10500
 
