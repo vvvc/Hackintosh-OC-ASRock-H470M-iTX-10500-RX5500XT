@@ -6,12 +6,12 @@
 
 显卡：ASUS RX5500XT-8G
 
-内存：Kingston 3200 16G
+内存：Kingston Renegade 3200 16G*2
 
 网卡：BCM943602CS 拆机网卡
 
 OpenCore版本：0.7.8
-请下载后添加三码后可用
+请下载后修改三码后使用
 
 更新日期：
 
